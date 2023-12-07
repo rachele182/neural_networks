@@ -1,2 +1,3 @@
-# neural_networks
-Abnormality Detection in Mammography using Deep Neural Networks
+## READ ME
+This repositoty contains the code and of results obtained on mammography classification using Convolutional Neural Network (CNN).  
+
