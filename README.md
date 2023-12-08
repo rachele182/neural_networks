@@ -21,7 +21,7 @@ The work is organized two main sections:
 &#x1F538; **binary classification**: to classify abnormalities between mass and calcification
   - from scratch CNN,
   - pretrained CNN,
-  - two-channel CNN using baseline patches
+  - two-channel CNN using baseline patches (to pair in the NN bening tissue with corrispondend malign one )
 
 &#x1F538; **four classes classification**: to discriminate also between benign and malignant types of abnormalities.
   - from scratch CNN,
