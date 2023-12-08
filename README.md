@@ -30,3 +30,5 @@ The work is organized two main sections:
 
 For each classification the convolutational neural network is designed, trained and evaluated in terms of _Accuracy_, _Confusion Matrices_, _Roc_Curves_.  
 To have an explanation of the files, and how to run those, please refere to the _contents.md_ file inside the folders. 
+
+
