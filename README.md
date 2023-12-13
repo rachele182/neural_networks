@@ -2,7 +2,7 @@
 <font color="green">**Authors**:</font>  Rachele Nebbia Colomba, Alessandro Gentili, Giorgio Simonini  
 <font color="green">**Title**: Abnormality Detection in Mammography using Deep Neural Networks </font> 
 
-This repositoty contains the code and of results obtained on mammography classification using **Convolutional Neural Network (CNN)** developed during Master Course at the Department of Engineering, Universita´di Pisa.  
+This repositoty contains the code and results obtained on mammography classification using **Convolutional Neural Network (CNN)** developed during Master Course at the Department of Engineering, Universita´di Pisa.  
 The Neural Networks were designed using TensorFlow on _Keras_ evnironment.  
 The data-set used in our project is **CBIS DDSM**, a Curated Breast Imaging Subsetof Digital Database for Screening Mammography. It represents a collection of images from two classes of breast abnormalities: masses and calcifications.  
 Class labels are assigned according to the following mapping:  
@@ -21,7 +21,7 @@ The work is organized two main sections:
 &#x1F538; **binary classification**: to classify abnormalities between mass and calcification
   - from scratch CNN,
   - pretrained CNN,
-  - two-channel CNN using baseline patches (to pair in the NN bening tissue with corrispondend malign one )
+  - two-channel CNN using baseline patches (to pair in the NN bening tissue with corrispondent malign one )
 
 &#x1F538; **four classes classification**: to discriminate also between benign and malignant types of abnormalities.
   - from scratch CNN,
