@@ -1,6 +1,6 @@
 ### <font color="green"> <span style="font-size:larger;"> Contents of Binary Classification: </font> </span>
 
-Here afther a brief description of the contents of the folder.   
+Here after a brief description of the contents of the folder.   
 For each design and training an analyis of the results in terms of Confusion Matrices and Roc Curves is reported.
 
 - **task_binary_1.ipynb**:
