@@ -13,5 +13,5 @@ For each design and training an analyis of the results in terms of Confusion Mat
      2. pre-trained *VGG16*;
      3. *InceptrionV3*
 
-All the files are written in python language as part of Jupiter Collab notebook.   
+All the files are written in python language as part of Jupiter Collab notebook (please remember that the code is copyrighted by Universita´di Pisa).   
 In each cell you can visualize the obtained result. Please seutp workspace and collab notebook to run locally the codes. 
