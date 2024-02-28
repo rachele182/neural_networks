@@ -22,12 +22,12 @@ The work is organized two main sections:
 &#x1F538; **binary classification**: to classify abnormalities between mass and calcification
   - from scratch CNN,
   - pre-trained CNN,
-  - two-channel CNN using baseline patches (to pair in the NN bening tissue with corrispondent malign one)
+  - two-channel CNN using baseline patches (to pair in the NN bening tissue with corrispondent malign one).
 
 &#x1F538; **four classes classification**: to discriminate also between benign and malignant types of abnormalities
   - from scratch CNN,
   - pre-trained CNN,
-  - ensemble of previous CNNs
+  - ensemble of previous CNNs.
 
 For each classification the convolutational neural network is designed, trained and evaluated in terms of _Accuracy_, _Confusion Matrices_, _Roc_Curves_.  
 To have an explanation of the files, and how to run those, please refere to the _contents.md_ file inside the folders. 
